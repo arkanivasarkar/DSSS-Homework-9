@@ -6,8 +6,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import google.generativeai as genai
 
 
-TELEGRAM_BOT_API_KEY = "7973329175:AAG-sjol8gBS1Uba-cpTPpPB67zAZIqbD0s"
-GEMINI_API_KEY = "AIzaSyBaHQJxdszWX0TsWeEkwExVpbIPnEhlPFk"
+TELEGRAM_BOT_API_KEY = "Enter telegram bot api"
+GEMINI_API_KEY = "Enter gemini api"
 
 
 # Apply nest_asyncio for interactive environments
